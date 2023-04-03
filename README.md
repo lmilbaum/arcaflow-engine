@@ -2,6 +2,12 @@
 
 The Arcaflow Engine allows you to run workflows using container engines, such as Docker or Kubernetes. The plugins must be built with the [Arcaflow SDK](https://arcalot.io/arcaflow/creating-plugins/python/).
 
+## Badges
+
+| Badge                                                                                                                                                                                                                   | Description  | Service              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------- |
+| <a href="https://renovatebot.com"><img alt="Renovate enabled" src="https://img.shields.io/badge/renovate-enabled-brightgreen.svg?style=flat-square"></a>                                                                | Dependencies | Renovate             |
+
 ## Pre-built binaries
 
 If you want to use our pre-built binaries, you can find them in the [releases section](https://github.com/arcalot/arcaflow-engine/releases).
